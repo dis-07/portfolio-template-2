@@ -1,0 +1,30 @@
+.header {
+    margin: 64px -15px 182px;
+}
+
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+
+.header-main__navv a {
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin: 0 20px;
+}
+
+.header-main__login {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.header-main__login svg {
+    margin-right: 8px;
+}

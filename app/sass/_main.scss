@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.body {
+    font-family: 'Gilroy', 'Times New Roman', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background-image: url(../img/bgc-img.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: #0B1D26;
+}
+
+.container {
+    max-width: 1790px;
+    min-width: 991px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.container--second {
+    max-width: 1230px;
+    min-width: 991px;
+    margin: 0 auto;
+    padding: 0 15px;
+}

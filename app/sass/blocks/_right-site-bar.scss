@@ -1,0 +1,26 @@
+.right-site-bar {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 80px;
+    top: 324px;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.right-site-bar a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    border-right: 3px solid rgba($color: #ffffffff, $alpha: 0.5);
+}
+
+.right-site-bar a:hover {
+    color: #FBD784;
+    border-right: 3px solid #ffffffff;
+} 

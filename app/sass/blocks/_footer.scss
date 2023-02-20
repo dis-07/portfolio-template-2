@@ -1,0 +1,57 @@
+.footer {
+    margin: 0 -15px;
+}
+
+.footer-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-menu__item-link {
+    text-decoration: none;
+}
+
+.footer-menu__item-link img {
+    margin-bottom: 28px;
+    margin-top: 6px;
+}
+
+.footer-menu__item-text {
+    max-width: 290px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-bottom: 190px;
+}
+
+.footer-menu__item-privacy {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    margin-top: auto;
+    margin-bottom: 52px;
+}
+
+.footer-metu__item-links {
+    display: flex;
+    flex-direction: column;
+    margin-right: 27px;
+}
+
+.footer-metu__item-links h2 {
+    font-size: 24px;
+    line-height: 32px;
+    color: #FBD784;
+    padding-bottom: 8px;
+}
+
+.footer-metu__item-links a {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 16px;
+}
